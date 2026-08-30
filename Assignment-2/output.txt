@@ -1,0 +1,16 @@
+Quick Sort Assignment No.2 Output
+SORTED MOVIES
+--------------------------------------------------------------------------------
+Title                         Rating        Release Year        Popularity
+--------------------------------------------------------------------------------
+Once Upon a Time in Hollywood 1410          1993                 159845
+Back to the Future 1          10          2004                 77490
+Black Panther 5               10          2017                 400764
+Oldboy 7                      10          2016                 131989
+The Dark Knight 8             10          1996                 252427
+Back to the Future 10         10          1995                 522195
+Whiplash 17                   9.9          1999                 247446
+Alien 3                       9.9          1995                 323131
+Avengers: Endgame 6           9.9          2012                 539144
+Blade Runner 2049 6           9.9          1992                 554630
+--------------------------------------------------------------------------------
