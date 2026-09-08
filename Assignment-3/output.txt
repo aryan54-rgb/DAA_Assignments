@@ -1,0 +1,39 @@
+Emergency Relief Supply Distribution
+Enter number of relief supplies: 5
+Enter boat capacity W (kg): 50
+
+Supply 1
+Enter weight (kg): 10
+Enter utility value: 60
+Enter type (1 = Divisible, 0 = Indivisible): 1
+
+Supply 2
+Enter weight (kg): 20
+Enter utility value: 100
+Enter type (1 = Divisible, 0 = Indivisible): 0
+
+Supply 3
+Enter weight (kg): 30
+Enter utility value: 120
+Enter type (1 = Divisible, 0 = Indivisible): 1
+
+Supply 4
+Enter weight (kg): 15
+Enter utility value: 45
+Enter type (1 = Divisible, 0 = Indivisible): 0
+
+Supply 5
+Enter weight (kg): 5
+Enter utility value: 30
+Enter type (1 = Divisible, 0 = Indivisible): 1
+
+Selected Relief Supplies
+ID      Weight  Utility
+1       10.00   60.00
+2       20.00   100.00
+5       5.00    30.00
+3       15.00   60.00 (Partial)
+
+Total Weight Used: 50.00 kg
+Remaining Boat Capacity: 0.00 kg
+Maximum Total Utility: 250.00
