@@ -1,0 +1,20 @@
+Enter number of cities: 4
+Enter number of directed roads: 12
+Enter delivery time limit: 85
+Enter each road: from to distance fuel_cost_per_km time
+1 2 10 2 10
+1 3 15 2 15
+1 4 20 2 20
+2 1 10 2 10
+2 3 35 1 35
+2 4 25 1 25
+3 1 15 2 15
+3 2 35 1 35
+3 4 30 1 30
+4 1 20 2 20
+4 2 25 1 25
+4 3 30 1 30
+
+Minimum fuel cost: 105.00
+Total time: 80.00
+Route: 1 -> 2 -> 4 -> 3 -> 1
