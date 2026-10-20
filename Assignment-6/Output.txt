@@ -1,0 +1,33 @@
+Enter number of items: 4
+Enter truck capacity: 6
+Enter bonus for priority items: 3
+
+Item 1
+Enter weight: 3
+Enter utility: 8
+Priority item? (1 = Yes, 0 = No): 0
+
+Item 2
+Enter weight: 2
+Enter utility: 10
+Priority item? (1 = Yes, 0 = No): 1
+
+Item 3
+Enter weight: 4
+Enter utility: 9
+Priority item? (1 = Yes, 0 = No): 1
+
+Item 4
+Enter weight: 5
+Enter utility: 7
+Priority item? (1 = Yes, 0 = No): 0
+
+Selected Items
+ID      Weight  Utility Priority
+2       2       10      1
+3       4       9       1
+
+Total Weight: 6
+Remaining Capacity: 0
+Total Utility: 19
+Priority-Adjusted Utility: 25
